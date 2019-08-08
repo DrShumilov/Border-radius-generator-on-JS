@@ -1,0 +1,12 @@
+#block {
+	width: 200px;
+	height: 100px;
+	background-color: #22CDF8;
+	margin-right: 200px;
+}
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-top: 200px;
+}
